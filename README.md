@@ -1,2 +1,3 @@
-# Computational Physics
-This repository just to save my college assignments
+#  Computational Physics Repository
+ 
+Welcome to the Computational Physics Repository! This repository is dedicated to storing and sharing code and resources for college assignments in the field of computational physics. Computational physics is a branch of physics that focuses on using computer algorithms, simulations, and numerical methods to study and solve complex physical problems. It involves applying mathematical models and computational techniques to simulate physical phenomena, perform data analysis, and make predictions. This Repository involves the application of numerical methods and algorithms to solve problems in physics.
